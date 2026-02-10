@@ -1,4 +1,4 @@
-## Hi Nic 👋
+## Hello, I'm Nic 👋
 
 <a href="https://linkedin.com/in/tshepo-dilotsotlhe-661092150"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linked&logoColor=white" /></a>
 
