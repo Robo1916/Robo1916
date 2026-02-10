@@ -15,7 +15,7 @@ and I am now eager to transition into this field, specifically aiming to join a 
 
 | Skill                                          | Associated Project              |
 |------------------------------------------------|---------------------------------|
-| SIEM Implementation and Log Analysis           | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis           | <a href="https://github.com/Robo1916/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection| <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR          | SOC Automation Lab |
 | Incident Resposnse Planning and Execution      | SOC Automation Lab |
@@ -48,7 +48,7 @@ and I am now eager to transition into this field, specifically aiming to join a 
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Robo1916/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
 
 ## Certifications
